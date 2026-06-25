@@ -41,7 +41,7 @@ export PATH="/home/tgunnz/.rd/bin:$PATH"
 
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv bash)"
 
-# Custom Additons
+# Tony's Custom Additons
 
 set -o vi
 
