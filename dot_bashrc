@@ -45,5 +45,5 @@ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv bash)"
 
 set -o vi
 
-
+eval "$(mise activate bash)"
 
